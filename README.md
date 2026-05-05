@@ -1,2 +1,2 @@
 # ALU-ASIC-FPGA
-ALU-DESGIN FOR Tiny tapeout
+ALU-Desgin for Tiny Tapeout
